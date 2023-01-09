@@ -2,6 +2,16 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=egbalwaldmann&left_color=green&right_color=red)
 ### Hi there 👋
 I'm currently doing a "Full-Stack Web Development" bootcamp at [Spiced Academy](https://spiced-academy.com/) in Berlin.
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+term
+
+: definition
+
 <!--
 **egbalwaldmann/egbalwaldmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
