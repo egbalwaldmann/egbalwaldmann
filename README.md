@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm currently doing a Full-Stack Web Development" bootcamp at [Spiced Academy](https://spiced-academy.com/) in Berlin.
 <!--
 **egbalwaldmann/egbalwaldmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
