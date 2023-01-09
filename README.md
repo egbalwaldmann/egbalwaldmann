@@ -1,6 +1,7 @@
 ![picture of a pond](https://lh3.googleusercontent.com/pw/AL9nZEXtvXy-yuy85lM1C3otg2noKIJrWpuwEQPZI-nnN2fTl38X5rLdG48hcP9gKKT8TJeuIB7b1r4hLuVluSaxyrXzASnbTJ4e41d8Loe9ee8cDKWRPv2gfet381AOPdASivmsS-g39KtVhwz1O6pxxFlJNg=w3840-h1730-no?authuser=0)
+
 ### Hi there 👋
-I'm currently doing a "Full-Stack Web Development" bootcamp at [Spiced Academy](https://spiced-academy.com/) in Berlin.
+I'm currently doing a "Full-Stack Web Development" bootcamp at [Spiced Academy](https://spiced-academy.com/) <a href="https://spiced-academy.com" target="_blank">Spiced Academy</a>  in Berlin.
 <!--
 **egbalwaldmann/egbalwaldmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
