@@ -3,9 +3,11 @@
 ### Hey there 👋
 I manage software projects and do full-stack web development.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=egbalwaldmann&left_color=green&right_color=red)
+
 
 <!--
+![visitors](https://visitor-badge.glitch.me/badge?page_id=egbalwaldmann&left_color=green&right_color=red)
+
 **egbalwaldmann/egbalwaldmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
